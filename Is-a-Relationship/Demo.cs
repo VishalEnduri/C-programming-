@@ -13,7 +13,7 @@ namespace Is_a_Relationship
             Child l = new Child();
             l.fun2();
             l.fun2();
-            l.fun3();
+            l.fun4();
             l.fun4();
         }
     }
