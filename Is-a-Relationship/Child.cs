@@ -18,6 +18,7 @@ namespace Is_a_Relationship
         public void fun4()
         {
             string y = "Shantan";
+            int l = 1;
             Console.WriteLine(" My best friend name is " +y);
         }
     }
