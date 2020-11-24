@@ -11,7 +11,7 @@ namespace Is_a_Relationship
         public static void Main(string[] args)
         {
             Child l = new Child();
-            l.fun1();
+            l.fun2();
             l.fun2();
             l.fun3();
             l.fun4();
